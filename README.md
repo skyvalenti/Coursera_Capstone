@@ -1,2 +1,2 @@
-# Github Example
-This repository is a demonstration of how to create a Github repository and properly set it up.
+# Coursera Capstone Github
+This repository is a demonstration of various assignments undertaken in persuit of IBM's Data Science Professional Certificate at Coursera.
